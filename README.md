@@ -1,14 +1,36 @@
-# European Coders Project 2
 
-W3schools clone
+# Hi, I'm Yasin! 👋
 
-<hr />
 
-### Installation Options
+## 🚀 About Me
+A passionate Full-Stack developer from Anatolien
 
-```
-$ git clone https://github.com/Clarusway-european-coders/Project-2.git
-```
-```
-$ sass --watch ./sass/style.scss ./css/style.css
-```
+
+## Authors
+
+
+
+- [Sinan Sarikaya](https://github.com/sinansarikaya)
+- [James Webb](https://github.com/ndryld)
+- [Mehmet FK](https://github.com/HaciGustav)
+- [Melih](https://github.com/F4372-Melih)
+- [A.Talha Ercan](https://github.com/ATErcan)
+- [Halil Özcan](https://github.com/H02c4n)
+- [Kemal Karabulut](https://github.com/Kemal-byte)
+- [Mukaddes Uysal]
+- [Yasin Yavuz](https://github.com/barbaros163)
+
+
+# Teamproject_2_Sass_Webpage
+
+
+## 🛠 Skills
+HTML, CSS,JAVASCRIPT
+
+
+## Demo
+
+## Feedback
+
+If you have any feedback, please reach out to me at barbaros1675@gmail.com
+
