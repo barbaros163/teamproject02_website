@@ -29,7 +29,7 @@ HTML, CSS,JAVASCRIPT
 
 
 ## Demo
-
+https://barbaros163.github.io/teamproject_2_website/index.html
 ## Feedback
 
 If you have any feedback, please reach out to me at barbaros1675@gmail.com
