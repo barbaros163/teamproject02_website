@@ -1,0 +1,77 @@
+.navbar {
+    height: 75px;
+    background-color: $white;
+    color:#000;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+   padding: 0 1rem;
+    font-family: $font-default;
+}
+.navbar .navbar-left {
+    display: flex;
+    align-items: center;
+    gap: 1rem;
+}
+.navbar .navbar-left .logo {
+    width: 45px;
+}
+.navbar .navbar-left .category-wrap {
+    display: flex;
+    align-items: center;
+    gap: 1rem;
+    font-size: 1rem;
+    font-weight: 600;
+}
+.navbar .navbar-left .category-wrap li{
+    height: 75px;
+    padding: 24px 16px;
+    cursor: pointer;
+}
+.navbar .navbar-left .category-wrap li:hover{
+    background-color: $green;
+    color: $white;
+}
+.navbar .navbar-right {
+    display: flex;
+    align-items: center;
+    gap: 1rem;
+    cursor: pointer;
+}
+.navbar .navbar-right i:hover {
+    color: $green;
+}
+.navbar .navbar-right .nav-btn {
+    height: 43px;
+    padding: 8px 16px;
+    border-radius: 25px;
+    border: 0;
+    font-weight: 600;
+    cursor: pointer;
+}
+.navbar .navbar-right .nav-btn.pro {
+    background-color: $black;
+    color: $white;
+}
+.navbar .navbar-right .nav-btn.pro:hover{
+    background-color: $nav-black-hover;
+}
+.navbar .navbar-right .nav-btn.get-certified {
+    background-color: $pink;
+}
+.navbar .navbar-right .nav-btn.get-certified:hover {
+    background-color: $nav-pink-hover;
+}
+.navbar .navbar-right .nav-btn.free-website {
+    background-color: $beige;
+}
+.navbar .navbar-right .nav-btn.free-website:hover {
+    background-color: $nav-yellow;
+}
+.navbar .navbar-right .nav-btn.login {
+    background-color: $green;
+    color: $white;
+}
+.navbar .navbar-right .nav-btn.login:hover {
+    background-color: $nav-green-hover;
+}

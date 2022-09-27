@@ -1,0 +1,70 @@
+@import url("https://fonts.googleapis.com/css2?family=Source+Sans+Pro&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Freckle+Face&family=Roboto+Mono&display=swap");
+* {
+  margin: 0;
+  padding: 0;
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box;
+}
+
+a {
+  text-decoration: none;
+}
+
+li {
+  list-style: none;
+}
+
+.header {
+  background-color: #282a35;
+  height: 80vh;
+}
+
+.code-editor {
+  height: 750px;
+  background-color: #282a35;
+}
+
+.exercise-quiz {
+  background-color: #232434;
+  height: 60vh;
+}
+
+.web-templates {
+  background-color: #e7e9eb;
+  height: 90vh;
+}
+
+.get-started {
+  background-color: #282a35;
+  height: 60vh;
+}
+
+.how-to {
+  height: 100vh;
+}
+
+.color-picker {
+  background-color: #f3ecea;
+  height: 60vh;
+}
+
+.code-game {
+  background-color: #96d4d4;
+  height: 80vh;
+}
+
+footer {
+  background-color: #282a35;
+  height: 40vh;
+}
+
+.other-languages {
+  background-color: #0d1721;
+  height: 254vh;
+}
+
+body {
+  font-family: "Source Sans Pro", sans-serif;
+}
+/*# sourceMappingURL=style.css.map */

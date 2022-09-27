@@ -1,0 +1,10 @@
+@mixin buttons($width, $height, $color, $bg-color, $radius) {
+  width: $width;
+  height: $height;
+  border-radius: $radius;
+  background-color: $bg-color;
+  color: $color;
+  text-align: center;
+  //   padding: 8px 16px; This attribut is used 80% of the time.
+}
+// TO include the mixin inside your styling use @include buttons(insert your parameters)

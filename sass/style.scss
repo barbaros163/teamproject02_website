@@ -1,0 +1,24 @@
+@import "pages/home";
+@import "base/reset";
+@import "abstracts/variables";
+@import "abstracts/mixins";
+
+// Componenets (layouts)
+@import "components/nav";
+@import "components/header";
+@import "components/main";
+@import "components/code-editor";
+@import "components/w3schools-space";
+@import "components/exercise-quiz";
+@import "components/web-templates";
+@import "components/get-started";
+@import "components/how-to";
+@import "components/color-picker";
+@import "components/code-game";
+@import "components/footer";
+@import "components/secondary_languages";
+@import "components/other-languages";
+
+body {
+  font-family: $font-default;
+}
